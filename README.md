@@ -55,6 +55,7 @@ The demo app is a simple list maker. It can be characterized by having:
 
 -   [Parent to Children Component Communication for UI State - Ember Igniter](http://emberigniter.com/parent-to-children-component-communication/)
 -   [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
+-   [ember.js - how to inject a store into a component (when using localstorage adapter) - Stack Overflow](http://stackoverflow.com/questions/28305159/how-to-inject-a-store-into-a-component-when-using-localstorage-adapter)
 
 ## [License](LICENSE)
 
