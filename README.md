@@ -23,6 +23,10 @@ This talk contains opinions. I like being wrong. Let's chat or, if you prefer,
 exchange ideas through
 [issues](https://github.com/jrhorn424/20160114-boston-ember/issues).
 
+## A Radical Idea
+
+![injection](https://cloud.githubusercontent.com/assets/388761/12340199/54d9884c-bae7-11e5-9578-4a74fee4d799.png)
+
 ## DDAU
 
 -   Makes component redistribution easy
