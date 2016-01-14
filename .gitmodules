@@ -1,0 +1,6 @@
+[submodule "ember-example-listr"]
+	path = ember-example-listr
+	url = git@github.com:jrhorn424/ember-example-listr.git
+[submodule "ember-example-listr-api"]
+	path = ember-example-listr-api
+	url = git@github.com:jrhorn424/ember-example-listr-api.git
