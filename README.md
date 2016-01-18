@@ -11,11 +11,12 @@
 
 # Components and Abstraction
 
-| Speaker | [Jeffrey Horn](http://hello.jrhorn.me)                                                                          |
-|---------|-----------------------------------------------------------------------------------------------------------------|
-| Title   | [Web Development Immersive Instructor](https://generalassemb.ly/instructors/jeff-horn/3305) at General Assembly |
-| Event   | [Boston Ember.js Meetup](http://www.meetup.com/Boston-Ember-js/events/227108545/)                               |
-| Date    | Thursday, January 14, 2016                                                                                      |
+| Speaker | [Jeffrey Horn](http://hello.jrhorn.me)                                                                            |
+|---------|-------------------------------------------------------------------------------------------------------------------|
+| Title   | [Web Development Immersive Instructor](https://generalassemb.ly/instructors/jeff-horn/3305) at General Assembly   |
+| Event   | [Boston Ember.js Meetup](http://www.meetup.com/Boston-Ember-js/events/227108545/)                                 |
+| Date    | Thursday, January 14, 2016                                                                                        |
+| Video   | [Full Video](https://www.youtube.com/watch?v=wLEVTqWbQNc), [My Talk](https://www.youtube.com/watch?v=xmicWu1li9E) |
 
 ![opinionated](https://cloud.githubusercontent.com/assets/388761/12339760/ad1d325e-bae4-11e5-93bc-a75bdcc03a37.gif)
 
