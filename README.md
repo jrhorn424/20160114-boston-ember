@@ -62,6 +62,17 @@ The demo app is a simple list maker. It can be characterized by having:
 -   [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
 -   [ember.js - how to inject a store into a component (when using localstorage adapter) - Stack Overflow](http://stackoverflow.com/questions/28305159/how-to-inject-a-store-into-a-component-when-using-localstorage-adapter)
 
+[Elad](https://github.com/SaladFork) had a great suggestion to create a ListItem
+service after the talk. Here are some references from our conversation:
+
+-   [Introduction to Ember.js |](https://teamgaslight.com/training/courses/14-introduction-to-ember-js)
+-   [Ember.js - Application Concerns: Services](https://guides.emberjs.com/v2.2.0/applications/services/)
+-   [Ember Best Practices: Actions Down, Data Up... wait what?](https://dockyard.com/blog/2015/10/14/best-practices-data-down-actions-up)
+-   [How Ember Data affects data down, actions up](http://www.samselikoff.com/blog/how-ember-data-affects-data-down-actions-up/)
+
+Special thanks to Elad for not only giving me great stuff to read, but also for
+not blaming me for being unable to pronounce his name at the end of my talk. 😄
+
 ## [License](LICENSE)
 
 Source code distributed under the MIT license. Text licensed under the
