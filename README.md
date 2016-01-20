@@ -26,7 +26,8 @@ exchange ideas through
 
 ## A Radical Idea
 
-![injection](https://cloud.githubusercontent.com/assets/388761/12340199/54d9884c-bae7-11e5-9578-4a74fee4d799.png)
+> ![injection](https://cloud.githubusercontent.com/assets/388761/12340199/54d9884c-bae7-11e5-9578-4a74fee4d799.png)
+> From [ember.js - how to inject a store into a component (when using localstorage adapter) - Stack Overflow](http://stackoverflow.com/questions/28305159/how-to-inject-a-store-into-a-component-when-using-localstorage-adapter)
 
 ## DDAU
 
@@ -34,7 +35,8 @@ exchange ideas through
 -   Makes flow explicit in markup
 -   Many small decisions must be made at each layer
 
-![diagram](https://cloud.githubusercontent.com/assets/388761/12339386/dc1cc062-bae2-11e5-85be-ae33da715b2c.png)
+> ![diagram](https://cloud.githubusercontent.com/assets/388761/12339386/dc1cc062-bae2-11e5-85be-ae33da715b2c.png)
+> From [Communication Between Distant Components - Ember Igniter](http://emberigniter.com/communication-between-distant-components/)
 
 ## Encapsulated Components
 
